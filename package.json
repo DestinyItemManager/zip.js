@@ -1,0 +1,19 @@
+{
+  "name": "@destiny-item-manager/zip.js",
+  "version": "1.0.0",
+  "description": "ZIP library for JavaScript.  This is a fork of https://github.com/gildas-lormeau/zip.js",
+  "main": "WebContent/zip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DestinyItemManager/zip.js.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DestinyItemManager/zip.js/issues"
+  },
+  "homepage": "https://github.com/DestinyItemManager/zip.js#readme"
+}
